@@ -1,0 +1,17 @@
+This project is a single HTML file and has no build steps or dependencies.
+A .gitignore file is included for good practice in case the project evolves.
+Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+Ignore thumbnail cache files
+._*
+Thumbs.db
+ehthumbs.db
+
+Ignore IDE/editor configuration files
+.idea/
+.vscode/
+*.swp
+*~
